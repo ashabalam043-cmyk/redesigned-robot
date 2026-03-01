@@ -1,2 +1,0 @@
-# redesigned-robot
-index.html
